@@ -2,9 +2,11 @@
 
 <img src="/images/banner.png" width=400>
 
+```
 ├── acm_setup.py
 ├── README.md
 ├── LICENSE
+```
 
 ## [Context](#Context)
 
@@ -52,7 +54,7 @@ cd maendeleolab_cvpn
 
 4) Create folder ACM-CA and copy server, client keys and certificates to the folder.
 
-5) Then import the server certificate to AWS ACM. 
+5) Then import the server certificate to your AWS ACM. 
 
 ```
 README.md
